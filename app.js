@@ -59,7 +59,7 @@ let products = [
     { id: 36, name: 'Trasporto veicolo con gancio di traino', price: 100, group: 'prestazioni', importprice: '', sellingprice: '', buyingprice: '' },
     { id: 37, name: 'Cambio COMPLETO motore (BASE) Motore + Tramissione + Candele + Olio + Batteria', price: 370, group: 'prestazioni', importprice: '', sellingprice: '', buyingprice: '' },
     { id: 38, name: 'Cambio COMPLETO Ciclistica (BASE) Copertoni + Freni + Sospensioni - X4', price: 400, group: 'prestazioni', importprice: '', sellingprice: '', buyingprice: '' },
-    { id: 39, name: 'Cambio COMPLETO motore (TOP V12) Motore + Tramissione + Candele + Olio + Batteria + Freni + Dischi', price: 2000, group: 'prestazioni', importprice: '', sellingprice: '', buyingprice: '' }
+    { id: 39, name: 'Cambio COMPLETO motore (TOP V12) Motore + Tramissione + Candele + Olio + Batteria + Freni + Dischi', price: 1800, group: 'prestazioni', importprice: '', sellingprice: '', buyingprice: '' }
 ];
 
 let info = [
